@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @machoguderick
-- 👀 I’m interested in ...free lancing
-- 🌱 I’m currently learning at jkuat 
+- 👀 I’m interested in ...free lancing 
 - 💞️ I’m looking to collaborate on writting articles, web development front end, data analyst
 - 📫 Contact me on whatsapp trough this number : +254702453346
 -  Pronouns: ...
